@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos generados por compilación
+dist/
+build/
+
+# Archivos de caché de WhatsApp Web
+.wwebjs_cache/
+
+# Archivos de entorno
+.env
